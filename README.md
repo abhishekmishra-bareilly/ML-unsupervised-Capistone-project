@@ -106,3 +106,16 @@
 **3- Use KMeans Clustering**
 
 Here are few clusters with there word cloud graph
+**Analysis of cluster 0**
+
+  * Type - Movie, TV Show
+
+  * Title- Naruto, high, girl, low, movie, dragon, bleach, fate, battle
+
+  * Countries- Japan, US, India
+
+  * Ratings- TV-MA, PG, Y7
+
+  * Genres- International TV series- Anime
+
+  * Description- family, world, human, friend
