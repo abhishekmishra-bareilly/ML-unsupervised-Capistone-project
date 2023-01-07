@@ -94,3 +94,15 @@
   * We will use 3000 components
   ![image](https://user-images.githubusercontent.com/112492310/211157449-eaa0dab4-20d1-4666-8a4b-f9e8482c1c8d.png)
 
+## **3- Applying models**
+
+**1- Find the value of clusters**
+  * WE use Elbow method for finding k values.
+  * Also use Silhouette Score for best score.
+  * Also use Dendogram for finding the value of clusters.
+  
+**2- Use Agglomerative Clustering**
+
+**3- Use KMeans Clustering**
+
+Here are few clusters with there word cloud graph
