@@ -92,3 +92,5 @@
 
 **5- Applying PCA-Principal Component Analysis to reduce dimensions.**
   * We will use 3000 components
+  ![image](https://user-images.githubusercontent.com/112492310/211157449-eaa0dab4-20d1-4666-8a4b-f9e8482c1c8d.png)
+
