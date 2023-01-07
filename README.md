@@ -61,3 +61,17 @@
 
   * 82%(6431) of the content was released between 2010 and 2021
   * 17.28%(1346) of the content was released before 2010.
+**'Rating" column**
+
+  * Most number of movies rated TV-MA i.e. Adult Rating
+
+  * Most number of TV Shows rated TV-MA i.e. Adult Rating
+
+**Tv shows duration**
+  * We have most listed duration as season 1 with 1608 listing.
+  * We have second most listed duration as season 2 with 378 listing.
+
+**Movie duration**
+  * Mainly the movie duration is in b/w 55 to 150 minutes.
+  * Most of the movies list for 90 to 120 minutes.
+
