@@ -27,3 +27,24 @@
 
 
 ---
+## **2- Exploratory Data Analysis**
+
+**type column**
+  * According to the graph we have 5377(69.14%) movies
+
+  * And 2400(30.86%) as TV Show in this dataset.
+
+**'director' column**
+  * According to plot we can say Raul Campos and Jan Sulter collectively have the most content on Netflix.
+  * Marcus Raboy have the second most content on Netflix.
+
+**'cast' column**
+  * Now we can say in this data Anupam Kher having 38 number of listing.
+  * Takahiro Sakurai is the second most listed actor on netflix.
+  * Shah Rukh Khan is the 3rd most listed actor on netflix.
+
+**'country' column**
+  * According to the plot we can understanding United States have 2080 Movies and	975 TV Show
+
+  * INDIA have second most listed country with 852 movies and	71 TV Show on Netflix.
+
