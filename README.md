@@ -75,3 +75,20 @@
   * Mainly the movie duration is in b/w 55 to 150 minutes.
   * Most of the movies list for 90 to 120 minutes.
 
+## **3- Data pre-processing**
+
+**1- Feature Engineering**
+  * For train the model we use description column, listed_in column, rating column, country column, title column, director column, cast column.
+
+**2- We performe Text cleaning as our next step**
+  * convert all words in lowercase.
+
+**3- We performe Stemming as our next step**
+  * We remove all stopwords.
+  * Also use stemming function.
+
+**4- We performe TF-IDF vectorizer**
+  * Term frequency-inverse document frequency is a text vectorizer that transforms the text into a usable vector.
+
+**5- Applying PCA-Principal Component Analysis to reduce dimensions.**
+  * We will use 3000 components
