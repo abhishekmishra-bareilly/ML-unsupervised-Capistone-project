@@ -120,6 +120,9 @@ Here are few clusters with there word cloud graph
 
   * Description- family, world, human, friend
 ## **4- Movie Recommendation Sytem**
+  * Using TF-IDF
+  * Similarity scores using cosine similarity
+  * Find top 30 title based on the given title
 
 
 
