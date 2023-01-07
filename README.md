@@ -48,3 +48,16 @@
 
   * INDIA have second most listed country with 852 movies and	71 TV Show on Netflix.
 
+**'date_added' column:-**
+
+  * We have so many content relese in October(785), November(738), December(833) and January(757) may be it is because of Holiday season.
+  * The number of release have significantly increased after 2015 to 2020
+  * Bul sudden drop in 2021 may be it is because of covid 19.
+
+**'release_year' column**
+  * We have 744 movies and	268 TV Show relese in 2017
+
+  * Also 734 movies and	386 TV Show relese in 2018
+
+  * 82%(6431) of the content was released between 2010 and 2021
+  * 17.28%(1346) of the content was released before 2010.
