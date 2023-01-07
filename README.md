@@ -18,6 +18,8 @@
   * Also we have 10 null values in date_added column.we have few rows of date_added so we can 'drop' these rows.
 
   * Also we have 7 null values in rating column.Replacing nulls with 'mode'.
+   ![image](https://user-images.githubusercontent.com/112492310/211157022-7be25f19-c928-41c1-a16c-2cda8aff22ad.png)
+
 
 **3- Check Duplicate values in the dataset**
 
